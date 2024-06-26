@@ -10,7 +10,7 @@ and it outputs acceleration and steering.
 
 I used a simple Evolutionary algorithm to train the NN.
 
-- Tomáš Březina 2020
+- Mohamed Aziz Abdellaoui tunisia 2024
 
 Run command:
 pip install -r requirements.txt
